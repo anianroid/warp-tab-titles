@@ -2,7 +2,7 @@
 # Smoke test for set-title.sh: exercises every hook event and asserts the
 # exact title output. Run from anywhere; exits non-zero on any failure.
 set -u
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/.." || exit 1
 export TAB_TITLE_DEBUG=1
 FAIL=0
 
