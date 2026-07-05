@@ -1,0 +1,19 @@
+{
+  "name": "warp-tab-titles",
+  "owner": {
+    "name": "Ani",
+    "url": "https://github.com/anianroid"
+  },
+  "description": "Marketplace for the warp-tab-titles Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "warp-tab-titles",
+      "source": "./",
+      "displayName": "Warp Tab Titles",
+      "description": "Automatic, project-prefixed terminal tab titles for Claude Code sessions. Built Warp-first.",
+      "license": "MIT",
+      "keywords": ["warp", "terminal", "tab-title", "hooks"],
+      "category": "utilities"
+    }
+  ]
+}

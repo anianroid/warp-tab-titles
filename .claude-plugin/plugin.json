@@ -1,0 +1,14 @@
+{
+  "name": "warp-tab-titles",
+  "displayName": "Warp Tab Titles",
+  "version": "0.1.0",
+  "description": "Automatic, project-prefixed terminal tab titles for Claude Code sessions. Built Warp-first, works in any terminal that honors OSC titles.",
+  "author": {
+    "name": "Ani",
+    "url": "https://github.com/anianroid"
+  },
+  "homepage": "https://github.com/anianroid/warp-tab-titles",
+  "repository": "https://github.com/anianroid/warp-tab-titles",
+  "license": "MIT",
+  "keywords": ["warp", "terminal", "tab-title", "hooks", "osc"]
+}
