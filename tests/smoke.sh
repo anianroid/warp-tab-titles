@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -u
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 export TAB_TITLE_DEBUG=1
 
 for f in .claude-plugin/plugin.json .claude-plugin/marketplace.json hooks/hooks.json; do
