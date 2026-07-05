@@ -1,5 +1,7 @@
 # warp-tab-titles
 
+[![CI](https://github.com/anianroid/warp-tab-titles/actions/workflows/ci.yml/badge.svg)](https://github.com/anianroid/warp-tab-titles/actions/workflows/ci.yml)
+
 Know which tab is which. A Claude Code plugin that keeps your terminal tab titles in sync with what each session is actually doing, prefixed with the project name. Built Warp-first, works in any terminal that honors OSC titles.
 
 ```
